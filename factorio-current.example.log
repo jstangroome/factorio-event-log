@@ -1,0 +1,4 @@
+2828.696 Script @__event-log__/control.lua:15: :tick=1044321:seconds=17405:event=on_train_created:player=:
+2897.095 Script @__event-log__/control.lua:15: :tick=1048425:seconds=17473:event=on_built_entity:player=silvergrume:assembling-machine-2:
+2902.463 Script @__event-log__/control.lua:15: :tick=1048515:seconds=17475:event=on_research_started:player=:stone-walls:
+2903.262 Script @__event-log__/control.lua:15: :tick=1048564:seconds=17476:event=on_research_finished:player=:stone-walls:

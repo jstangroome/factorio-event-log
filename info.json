@@ -1,0 +1,9 @@
+{
+  "name": "event-log",
+  "version": "0.0.1",
+  "title": "Event Log",
+  "author": "Jason Stangroome",
+  "factorio_version": "0.18",
+  "dependencies": ["base >= 0.18"],
+  "description": "Records events to the log file for speedrun split timing."
+}
